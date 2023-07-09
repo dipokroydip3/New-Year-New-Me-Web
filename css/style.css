@@ -62,3 +62,24 @@ span{
 .paragraph{
       margin-top: 10px;
 }
+
+#plans .container{
+      width: 80%;
+      margin: auto;
+      display: flex;
+      justify-content: space-around;
+}
+
+.plans-title{
+      text-align: center;
+      padding: 70px 0;
+}
+
+.item{
+      padding: 40px 60px;
+      text-align: center;
+}
+
+.title{
+      margin-top: 10px;
+}
