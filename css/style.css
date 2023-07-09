@@ -106,3 +106,46 @@ span{
       border: none;
       margin-top: 10px;
 }
+
+#future{
+      background-color: black;
+      width: 100%;
+      height: 70vh;
+}
+#future .container{
+      width: 80%;
+      display: flex;
+      margin: auto;
+      padding-top: 150px;  
+}
+
+.future-content{
+      color: white;
+      padding-right: 500px;
+      font-weight: 200;
+      
+}
+
+input{
+      padding: 10px;
+      margin-top: 10px;
+}
+
+.sub-title{
+      color: white;
+      font-size: 25px;
+}
+
+.subscribe .subs{
+      background-color: white;
+      color: orangered;
+      padding: 15px 30px;
+      border: none;
+      cursor: pointer;
+      margin-top: 15px;
+      border-radius: 5px;
+}
+
+.future-icons{
+      margin-top: 15px;
+}
