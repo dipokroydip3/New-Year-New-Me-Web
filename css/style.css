@@ -83,3 +83,26 @@ span{
 .title{
       margin-top: 10px;
 }
+
+#mindset{
+      height: 70vh;
+}
+#mindset .container{
+      background: url('/images/gradient2.png'),url('/images/watch.png');
+      background-repeat: no-repeat;
+      width: 80%;
+      height: 100%;
+      margin: 80px auto;
+      position: relative;
+}
+
+#mindset .container .content{
+      position: absolute;
+      margin-top: 100px;
+}
+
+.call-now{
+      padding: 8px 20px;
+      border: none;
+      margin-top: 10px;
+}
