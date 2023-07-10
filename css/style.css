@@ -19,17 +19,26 @@ header{
       align-items: center;
 
 }
+.header-title{
+      font-size: 2rem;
+}
 .header-content{
       width: 50%;
       padding-right: 100px;
 }
 
+.header-paragraph{
+      font-size: 18px;
+      margin-top: 10px;
+}
+
 .header-btn{
       margin-top: 20px;
-      padding: 8px 20px;
+      padding: 12px 25px;
       background-color: #feb500;
       color: white;
       border: none;
+      border-radius: 5px;
       cursor: pointer;
 }
 
@@ -102,8 +111,9 @@ span{
 }
 
 .call-now{
-      padding: 8px 20px;
+      padding: 10px 25px;
       border: none;
+      border-radius: 5px;
       margin-top: 10px;
 }
 
