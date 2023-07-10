@@ -5,7 +5,7 @@
 }
 
 header{
-      background: url('images/banner/banner1.png');
+      background: url('../images/banner/banner1.png');
       background-size: cover;
       background-position: center;
       
@@ -97,7 +97,7 @@ span{
       height: 70vh;
 }
 #mindset .container{
-      background: url('images/gradient2.png'),url('images/watch.png');
+      background: url('../images/gradient2.png'),url('../images/watch.png');
       background-repeat: no-repeat;
       width: 80%;
       height: 100%;
